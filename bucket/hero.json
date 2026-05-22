@@ -1,0 +1,22 @@
+{
+    "version": "0.12.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.12.0/hero_0.12.0_windows_amd64.zip",
+            "bin": [
+                "hero.exe"
+            ],
+            "hash": "965c040da7edda48929adf0b875988b1cd91d7dc8d669022e94d9d0a232fe9b7"
+        },
+        "arm64": {
+            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.12.0/hero_0.12.0_windows_arm64.zip",
+            "bin": [
+                "hero.exe"
+            ],
+            "hash": "c2a847460f5160b91e55c7be3011b3def288b50af9bf4bcf6f0bf0551bb86dd0"
+        }
+    },
+    "homepage": "https://hero-engine.dev",
+    "license": "MIT",
+    "description": "Spec-driven AI engineering workflow"
+}
