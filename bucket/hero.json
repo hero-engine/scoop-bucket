@@ -1,19 +1,19 @@
 {
-    "version": "0.27.3",
+    "version": "0.28.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.27.3/hero_0.27.3_windows_amd64.zip",
+            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.28.0/hero_0.28.0_windows_amd64.zip",
             "bin": [
                 "hero.exe"
             ],
-            "hash": "1f7a7a07dc9028b7177be82a1e2480af598ab0af89911f66b6cbf69269eff482"
+            "hash": "6d012cc0ef16a2c9d680e1b65cc6bc5121abbab741df005a0b89bde73328432a"
         },
         "arm64": {
-            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.27.3/hero_0.27.3_windows_arm64.zip",
+            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.28.0/hero_0.28.0_windows_arm64.zip",
             "bin": [
                 "hero.exe"
             ],
-            "hash": "538ae2e6129f5d670f09a0072206966fc30394fc12bee1949ae0b6a6442dfff3"
+            "hash": "8f1a6fdf5a47352c81a44fbed2e2b3636a3386b9b7cb3d40c77249cbd99af820"
         }
     },
     "homepage": "https://hero-engine.dev",
