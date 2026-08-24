@@ -1,22 +1,22 @@
 {
-    "version": "0.33.0",
+    "version": "0.34.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.33.0/hero_0.33.0_windows_amd64.zip",
+            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.34.0/hero_0.34.0_windows_amd64.zip",
             "bin": [
                 "hero.exe"
             ],
-            "hash": "199ccd331ea291846791b5617e24e06eda34795fcea588177c61ca291e538805"
+            "hash": "f70dcce259330474c03071690e7b8b0357efdd6bcb9710c79c3277ba7753547d"
         },
         "arm64": {
-            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.33.0/hero_0.33.0_windows_arm64.zip",
+            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.34.0/hero_0.34.0_windows_arm64.zip",
             "bin": [
                 "hero.exe"
             ],
-            "hash": "133b983306408fe61c7e05f47cd715bdafe4bd1a0b068661598b270d1596cc62"
+            "hash": "be3d55d00c41880ccb4aa3c2cddcadd12e6ad761dd6849bcc22e728d7ee738f3"
         }
     },
-    "homepage": "https://hero-engine.dev",
-    "license": "MIT",
-    "description": "Spec-driven AI engineering workflow"
+    "homepage": "https://heroengine.ai",
+    "license": "Apache-2.0",
+    "description": "Persistent project memory and delivery workflows for AI engineering agents"
 }
