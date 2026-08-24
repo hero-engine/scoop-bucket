@@ -6,14 +6,7 @@
             "bin": [
                 "hero.exe"
             ],
-            "hash": "f70dcce259330474c03071690e7b8b0357efdd6bcb9710c79c3277ba7753547d"
-        },
-        "arm64": {
-            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.34.0/hero_0.34.0_windows_arm64.zip",
-            "bin": [
-                "hero.exe"
-            ],
-            "hash": "be3d55d00c41880ccb4aa3c2cddcadd12e6ad761dd6849bcc22e728d7ee738f3"
+            "hash": "a360c4b5aad6ab7a1556b0141413d9af48c5be7ef834f26fefac44e9f9918a50"
         }
     },
     "homepage": "https://heroengine.ai",
