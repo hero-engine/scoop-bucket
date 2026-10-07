@@ -1,12 +1,12 @@
 {
-    "version": "0.35.2",
+    "version": "0.35.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.35.2/hero_0.35.2_windows_amd64.zip",
+            "url": "https://github.com/hero-engine/hero-releases/releases/download/v0.35.3/hero_0.35.3_windows_amd64.zip",
             "bin": [
                 "hero.exe"
             ],
-            "hash": "37fad836b3b57d62770fdad9f615450962e61b3fb18cb8a811d0e35d90a91b5f"
+            "hash": "34cb8d5c5dc60fdbe6e74e2252b3b69e6502ffe57df34071bf9aab9408718698"
         }
     },
     "homepage": "https://heroengine.ai",
